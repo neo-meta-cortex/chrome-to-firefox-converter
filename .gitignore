@@ -1,0 +1,21 @@
+# Build output
+ctfextension
+ctfextension.exe
+ctfextension-*
+*.xpi
+
+# Go
+vendor/
+*.test
+*.out
+go.sum
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
